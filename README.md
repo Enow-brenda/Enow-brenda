@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Enow-brenda
-- 👀 I’m interested in data science...
+- 👀 I’m interested in data science,Artificial intelligence ,robotics and web projects...
 - 🌱 I’m currently learning .python,react,flask,django ..
 - 💞️ I’m looking to collaborate on ..big data engineering.
 - 📫 How to reach me whatsapp.672084416
