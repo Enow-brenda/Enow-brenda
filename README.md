@@ -93,7 +93,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/congenial-winner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=congenial-winner&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/congenial-winner"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=congenial-winner&theme=radical&hide_border=true" width="100%"/></a>
 
 **🤰 Family Planning Autonomy Predictor**
 
@@ -109,7 +109,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 ![In Progress](https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=REPLACE-WITH-REPO-NAME&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/Survival-Analysis-Predicting-Age-at-Circumcision"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=Survival-Analysis-Predicting-Age-at-Circumcision&theme=radical&hide_border=true" width="100%"/></a>
 
 **⏳ Survival Analysis — Age at Circumcision & Risk Factors**
 
@@ -128,7 +128,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/sante_cameroon_ML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=sante_cameroon_ML&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/sante_cameroon_ML"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=sante_cameroon_ML&theme=radical&hide_border=true" width="100%"/></a>
 
 **🩺 Santé Cameroon — Health Data Insights**
 
@@ -143,7 +143,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/Customer_churn_prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=Customer_churn_prediction&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/Customer_churn_prediction"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=Customer_churn_prediction&theme=radical&hide_border=true" width="100%"/></a>
 
 **📉 Customer Churn Prediction**
 
@@ -161,7 +161,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/intelligent_Agent_maze_solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=intelligent_Agent_maze_solver&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/intelligent_Agent_maze_solver"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=intelligent_Agent_maze_solver&theme=radical&hide_border=true" width="100%"/></a>
 
 **🧭 Intelligent Agent — Maze Solver**
 
@@ -176,7 +176,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 ![In Progress](https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=REPLACE-WITH-REPO-NAME&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/localcardgame"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=localcardgame&theme=radical&hide_border=true" width="100%"/></a>
 
 **🃏 Local Card Game with a Minimal AI Opponent**
 
@@ -196,7 +196,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/Introduction_To_AI_Labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=Introduction_To_AI_Labs&theme=radical&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/Introduction_To_AI_Labs"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=Introduction_To_AI_Labs&theme=radical&hide_border=true" width="100%"/></a>
 
 **🧪 Introduction to AI — Labs**
 
@@ -235,7 +235,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/Sales_Data_Cleaning_and_Insights_Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=Sales_Data_Cleaning_and_Insights_Platform&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/Sales_Data_Cleaning_and_Insights_Platform"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=Sales_Data_Cleaning_and_Insights_Platform&theme=dracula&hide_border=true" width="100%"/></a>
 
 **🧹 Sales Data Cleaning & Insights Platform**
 
@@ -249,7 +249,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/Company_IMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=Company_IMS&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/Company_IMS"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=Company_IMS&theme=dracula&hide_border=true" width="100%"/></a>
 
 **🏢 Company IMS — Internship Management System**
 
@@ -266,7 +266,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/SPOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=SPOT&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/SPOT"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=SPOT&theme=dracula&hide_border=true" width="100%"/></a>
 
 **🧰 SPOT — Local Service Providers Network**
 
@@ -280,7 +280,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/XpenseLog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=XpenseLog&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/XpenseLog"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=XpenseLog&theme=dracula&hide_border=true" width="100%"/></a>
 
 **💸 XpenseLog — Personal Finance Desktop App**
 
@@ -297,7 +297,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/chronoForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=chronoForge&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/chronoForge"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=chronoForge&theme=dracula&hide_border=true" width="100%"/></a>
 
 **⏱️ ChronoForge — Android Task Manager**
 
@@ -311,7 +311,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/x-anatomy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=x-anatomy&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/x-anatomy"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=x-anatomy&theme=dracula&hide_border=true" width="100%"/></a>
 
 **🧬 X-Anatomy — Interactive Anatomy Explorer**
 
@@ -328,7 +328,7 @@ Contributed to Digimark Consulting, an IT training and consultancy center workin
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6C5CE7?style=flat-square)
 
-<a href="https://github.com/Enow-brenda/ARtistic-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Enow-brenda&repo=ARtistic-&theme=dracula&hide_border=true" width="100%"/></a>
+<a href="https://github.com/Enow-brenda/ARtistic-"><img src="https://github-readme-stats-rho-jade-84.vercel.app/api/pin/?username=Enow-brenda&repo=ARtistic-&theme=dracula&hide_border=true" width="100%"/></a>
 
 **🛋️ ARtistic — AR Ecommerce for Furniture**
 
@@ -457,13 +457,11 @@ I'm building this skillset step by step, and I'd rather show honest progress tha
 
 <div align="center">
 
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enow-brenda&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enow-brenda&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Brenda's GitHub stats](https://github-readme-stats-rho-jade-84.vercel.app/api?username=Enow-brenda&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-rho-jade-84.vercel.app/api/top-langs/?username=Enow-brenda&layout=compact&theme=radical&hide_border=true&langs_count=8)
 ![Streak](https://streak-stats.demolab.com?user=Enow-brenda&theme=radical&hide_border=true)
 
 </div>
-
-<sub>These are auto-generated and update on their own: the first shows overall activity (commits, PRs, stars), the second shows your most-used languages, and the third shows your daily contribution streak.</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:00B4D8&height=4&width=100%" width="100%"/>
