@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="121228259.png" alt="Brenda Enow — AI, ML & Software Engineering" width="100%" height ="600" />
+<img src="121228259.png" alt="Brenda Enow — AI, ML & Software Engineering" width="100%" height ="400" />
 
 # Hi, I'm Enow Brenda👋
 
